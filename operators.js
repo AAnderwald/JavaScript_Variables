@@ -1,10 +1,11 @@
-let a = 20;
-let b = 40;
+//let a = 20;
+//let b = 40;
 
-let add = a + b;
-let minus = a - b;
-let multiply = a * b;
-let dividing = a / b;
+//let add = a + b;
+//let minus = a - b;
+//let multiply = a * b;
+//let dividing = a / b;
+
 
 //console.log (a); // 20
 //console.log (b); // 40
