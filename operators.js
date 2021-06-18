@@ -1,6 +1,5 @@
 //let a = 20;
-//let b = 40;
-
+//let b = 4;
 //let add = a + b;
 //let minus = a - b;
 //let multiply = a * b;
@@ -8,11 +7,11 @@
 
 
 //console.log (a); // 20
-//console.log (b); // 40
-//console.log (add); // 60
-//console.log (minus); // -20
-//console.log (multiply); // 800
-//console.log (dividing); // 0.5
+//console.log (b); // 4
+//console.log (add); // 24
+//console.log (minus); // 16
+//console.log (multiply); //80 
+//console.log (dividing); // 5
 
 //let c = 11;
 //let str = "11";
@@ -21,7 +20,7 @@
 //let firstName = "Jackie";
 //let lastName = "Chan";
 
-//console.log (c + str); // 1111
+//console.log (c + str); // 1111 this is a string and not a number value because the str is a string
 //console.log (c + str2); // 11eleven
 //console.log (c + isPresent); // 12
 //console.log (c + firstName); // 11Jackie
